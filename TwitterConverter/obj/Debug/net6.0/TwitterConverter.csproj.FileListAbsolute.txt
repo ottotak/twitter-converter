@@ -1,0 +1,15 @@
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.csproj.AssemblyReference.cache
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.AssemblyInfoInputs.cache
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.AssemblyInfo.cs
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.csproj.CoreCompileInputs.cache
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\bin\Debug\net6.0\TwitterConverter.exe
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\bin\Debug\net6.0\TwitterConverter.deps.json
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\bin\Debug\net6.0\TwitterConverter.runtimeconfig.json
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\bin\Debug\net6.0\TwitterConverter.dll
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\bin\Debug\net6.0\TwitterConverter.pdb
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.dll
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\refint\TwitterConverter.dll
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.pdb
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\TwitterConverter.genruntimeconfig.cache
+C:\Users\tak\repo\TwitterConverter\TwitterConverter\obj\Debug\net6.0\ref\TwitterConverter.dll
